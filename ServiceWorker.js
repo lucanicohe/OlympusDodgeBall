@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-hd3dsucksthatswhyiuseURP-0.1.0";
 const contentToCache = [
-    "Build/fuckball2.loader.js",
-    "Build/fuckball2.framework.js",
-    "Build/fuckball2.data",
-    "Build/fuckball2.wasm",
+    "Build/fuckball3.loader.js",
+    "Build/fuckball3.framework.js",
+    "Build/fuckball3.data",
+    "Build/fuckball3.wasm",
     "TemplateData/style.css"
 
 ];
